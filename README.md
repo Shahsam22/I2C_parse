@@ -1,4 +1,4 @@
-# I2C_parse
+# I2C_parse/ i2c trace file
 
 Given a I^2C trace files, Write down various Functions to determine Transactions
 Read the text files which are given in the file eg:T0.txt,T1.txt..... and write functions for the following 
