@@ -1,0 +1,11 @@
+1) Total number of transactions : 4
+2) Total number of MasterWrites : 2
+3) Total number of MasterReads  : 2
+4) Total number of Acknowledged Transactions     : 14
+5) Total number of Not Acknowledged Transactions : 0
+6) List of Read/Write Transactions
+TYPE		Address		Data1		Data2
+W		0x1A		0x55
+R		0x2A		0xAA		0x33
+W		0x3A		0x11		0x33
+R		0x4A		0x11		0x44
